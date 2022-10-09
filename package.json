@@ -1,0 +1,28 @@
+{
+  "name": "@anywhichway/plotly-chart",
+  "version": "0.0.1",
+  "description": "A web component for displaying Plotly charts",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anywhichway/plotly-chart.git"
+  },
+  "keywords": [
+    "Chart",
+    "Plotly",
+    "SyncFusion",
+    "LightningChart",
+    "AMCharts",
+    "ChartJS",
+    "HighChart"
+  ],
+  "author": "Simon Y. Blackwell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anywhichway/plotly-chart/issues"
+  },
+  "homepage": "https://github.com/anywhichway/plotly-chart#readme"
+}
