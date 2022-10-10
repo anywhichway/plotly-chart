@@ -1,6 +1,6 @@
 {
   "name": "@anywhichway/plotly-chart",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A web component for displaying Plotly charts",
   "main": "index.html",
   "scripts": {

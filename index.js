@@ -5,9 +5,9 @@ self.properties({
     render() {
         let json;
         try {
-            json = JSON5.parse(this.innerHTML)
+            json = JSON5.parse(this.textContent)
         } catch(e) {
-            console.error(e);
+            console.error(e,this.textContent);
             json = {data:[],layout:{},config:{}};
         }
         const {data,layout,config} = json;
