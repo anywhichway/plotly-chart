@@ -11,7 +11,7 @@ self.properties({
             json = {data:[],layout:{},config:{}};
         }
         const {data,layout,config} = json;
-        Plotly.newPlot(this.shadowRoot.firstElementChild,data,layout,config);
+        Plotly.newPlot(this.shadowRoot.lastElementChild,data,layout,config);
     }
 })
 
